@@ -48,5 +48,4 @@ Esse projeto foi desenvolvido através de um desafio proposto pela Alura juntame
 
 Iara Brena.
 
-![iarabrena](https://github.com/user-attachments/assets/64894a34-edf5-4445-bd3c-b0d8abeaa4ce)
-
+![perfil2](https://github.com/user-attachments/assets/a5ec01e6-b307-468c-b757-1f8768367d14)
